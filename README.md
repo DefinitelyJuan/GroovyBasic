@@ -7,3 +7,6 @@ This includes code on some of the basic capabilities of Groovy. More specificall
 - Env variables
 - File I/O
 - Network I/O
+
+
+Also includes a Groovy info file: [Ficha del lenguaje](https://github.com/DefinitelyJuan/GroovyBasic/blob/master/src/groovyficha.md)
